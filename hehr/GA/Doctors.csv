@@ -1,0 +1,13 @@
+DoctorID,FirstName,LastName,Specialty,PhoneNumber,Email
+1,Dave,Fain,Generalist,+1-303-618-2168,dave.fain1@hopehospital.org
+2,Keisha,Soucier,Neurology,+1-303-596-9520,keisha.soucier2@hopehospital.org
+3,Hazel,Mikula,Oncology,+1-303-687-9322,hazel.mikula3@hopehospital.org
+4,Mabel,Tamber,Oncology,+1-303-115-9845,mabel.tamber4@hopehospital.org
+5,Tara,Borland,Cardiology,+1-303-298-3606,tara.borland5@hopehospital.org
+6,Wilson,Hariharan,Cardiology,+1-303-375-3617,wilson.hariharan6@hopehospital.org
+7,Ted,Ruhland,Cardiology,+1-303-774-1435,ted.ruhland7@hopehospital.org
+8,Alyssa,Fathy,Generalist,+1-303-643-8261,alyssa.fathy8@hopehospital.org
+9,Joyce,Portolese,Surgery,+1-303-917-1483,joyce.portolese9@hopehospital.org
+10,Sofia,Merl,Generalist,+1-303-572-7118,sofia.merl10@hopehospital.org
+11,Dillon,Breig,Generalist,+1-303-316-8491,dillon.breig11@hopehospital.org
+12,Rudy,Breitzman,Generalist,+1-303-663-2917,rudy.breitzman12@hopehospital.org
