@@ -112,7 +112,7 @@ BEGIN --    Creatin a Logical DW
         CREATE DATABASE SCOPED CREDENTIAL DwScopeCredential
             WITH
                 IDENTITY='SHARED ACCESS SIGNATURE',  
-                SECRET = 'YOUR_OWN_SHARED_ACCESS_SIGNATURE';
+                SECRET = 'YOUR_OWN_SHARED_ACCESS_SIGNATURE_FROM_YOUR_DATA_LAKE';
 
     --	Create an external data source
 
