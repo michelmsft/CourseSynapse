@@ -36,7 +36,15 @@ NY/ (for New York data)
 Place relevant CSV or Parquet files in each state folder.
 
 ```bash
-data/TX/customers.csv
-data/GA/orders.parquet
-data/NY/transactions.csv
+data/TX/Doctors.csv
+data/TX/Patients.csv
+data/TX/Visits.csv
+
+data/GA/Doctors.csv
+data/GA/Patients.csv
+data/GA/Visits.csv
+
+data/NY/Doctors.csv
+data/NY/Patients.csv
+data/NY/Visits.csv
 ```
